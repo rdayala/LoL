@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\pre-dexed\free\debug\com.android.support-design-23.1.1_e2f5fd96c78eec2f73fe198f22f926fdc362355f.jar" />
+    </item>
+    <item
+        jar="C:\Users\rdayala.ORADEV\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\pre-dexed\free\debug\jackson-core-2.1.3_f987723d3db14772da6587c489c0f6a43c015dc2.jar" />
+    </item>
+    <item
+        jar="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\pre-dexed\free\debug\com.android.support-recyclerview-v7-23.1.1_e4f645b97779a5d516ead154b12bb54bb496ca46.jar" />
+    </item>
+    <item
+        jar="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\pre-dexed\free\debug\com.android.support-support-v4-23.1.1_ee259f863ede16a03f1bb3e37f4efbdcc055c506.jar" />
+    </item>
+    <item
+        jar="C:\Users\rdayala.ORADEV\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.19.0\ba2aafb867f6af469f936ae76426cf0a280094bd\google-api-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ba2aafb867f6af469f936ae76426cf0a280094bd">
+        <dex dex="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\pre-dexed\free\debug\google-api-client-android-1.19.0_5071aa15b8a68b33fc18840e6c91b1e51d563863.jar" />
+    </item>
+    <item
+        jar="C:\Users\rdayala.ORADEV\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.19.0\6a21277d9bebe267b7ddee028b241eebc756c040\google-api-client-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6a21277d9bebe267b7ddee028b241eebc756c040">
+        <dex dex="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\pre-dexed\free\debug\google-api-client-1.19.0_734548f6158ab813af1d9b245b8900b90f946650.jar" />
+    </item>
+    <item
+        jar="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\exploded-aar\lol\jokedisplay\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c1cfddddf65318470643aa9dcb6216da461111b">
+        <dex dex="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\pre-dexed\free\debug\lol-jokedisplay-unspecified_87e41ce587dde2e4330047f04bb7bf6e9c0f91f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\rdayala.ORADEV\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.19.0\81dbf9795d387d5e80e55346582d5f2fb81a42eb\google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\pre-dexed\free\debug\google-http-client-jackson2-1.19.0_ed49306112d531ea70686becc20ddd584da75714.jar" />
+    </item>
+    <item
+        jar="C:\Users\rdayala.ORADEV\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\pre-dexed\free\debug\jsr305-2.0.1_0097b7e839140ea0ac0cf086f8fab92d25fe4dcf.jar" />
+    </item>
+    <item
+        jar="D:\Professional\Dev\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\pre-dexed\free\debug\support-annotations-23.1.1_cd5d51dc06c5461ceffc317ab044b32f34f757d4.jar" />
+    </item>
+    <item
+        jar="D:\Professional\Dev\Udacity\Projects\lol\api\build\libs\api-android-endpoints.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="74aab425dee1bbd438b8db25baa5b1fcbcc98fed">
+        <dex dex="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\pre-dexed\free\debug\api-android-endpoints_de2c0c9e7ade74f0e83611c7531dd6aec7b28b39.jar" />
+    </item>
+    <item
+        jar="C:\Users\rdayala.ORADEV\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.19.0\cdca49ad0977c040f603478aa2e16b2775c8fec6\google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\pre-dexed\free\debug\google-http-client-1.19.0_daeeadba4f0c92076b39dc878524ed0af455227b.jar" />
+    </item>
+    <item
+        jar="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\pre-dexed\free\debug\com.android.support-appcompat-v7-23.1.1_8703b988e95f2fc82d6669921eb4f05ff8b66925.jar" />
+    </item>
+    <item
+        jar="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\pre-dexed\free\debug\com.google.android.gms-play-services-ads-8.4.0_e8d8eb4f7fedcdf454b1b984a4c7522835259eee.jar" />
+    </item>
+    <item
+        jar="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\pre-dexed\free\debug\internal_impl-23.1.1_7985932d046f1d01caf465bd02b2e7e79edaeb2a.jar" />
+    </item>
+    <item
+        jar="C:\Users\rdayala.ORADEV\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.19.0\d473a8962e14a707a3716637e4898bb2dd9643f2\google-oauth-client-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\pre-dexed\free\debug\google-oauth-client-1.19.0_7cd16ab58dcbd6a5a4a94f5a0bd2f621cedf21f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\rdayala.ORADEV\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\pre-dexed\free\debug\guava-jdk5-13.0_bf7d1a5e4929190b792c2e087f0b66cdbe8fcfa7.jar" />
+    </item>
+    <item
+        jar="C:\Users\rdayala.ORADEV\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.19.0\e3f11020c2c812112803d252d1392872d3f619c8\google-http-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3f11020c2c812112803d252d1392872d3f619c8">
+        <dex dex="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\pre-dexed\free\debug\google-http-client-android-1.19.0_098b16f937eb1b927332358f8d08097d61d8911a.jar" />
+    </item>
+    <item
+        jar="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\Professional\Dev\Udacity\Projects\lol\app\build\intermediates\pre-dexed\free\debug\com.google.android.gms-play-services-basement-8.4.0_a3f1d2e6a62f296816ed316fd689b7117dabb543.jar" />
+    </item>
+
+</items>
