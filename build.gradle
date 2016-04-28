@@ -1,0 +1,36 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.5.0'
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+
+
+task runConnectedTest (dependsOn: [':api:appengineStop', ':api:appengineRun',':app:connectedCheck']) {
+    project(":api").afterEvaluate { api ->
+        api.extensions.appengine.daemon = true
+    }
+    tasks.getByPath(':app:connectedCheck').dependsOn ':api:appengineRun'
+    tasks.getByPath(':api:appengineStop').mustRunAfter tasks.getByPath(':app:connectedCheck')
+}
+
+
+
+

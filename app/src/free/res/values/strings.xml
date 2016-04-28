@@ -1,0 +1,4 @@
+<resources>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="version_info">* This is an ad supported version. To get an ad free app, upgrade to paid version.</string>
+</resources>
